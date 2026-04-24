@@ -13,8 +13,6 @@
 
 <a href="https://ai4riselab.com" target="_blank" rel="noopener noreferrer">Tadesse G. Wakjira</a><sup>1</sup>
 
-<sup>1</sup>Kennesaw State University
-
 *Under Review*
 
 </div>
@@ -32,13 +30,12 @@ The manuscript is currently under review. Full source code, training scripts, an
 ## Citation
 ```
 @article{wakjira2026madet,
-    title   = {MADE-T: Mechanics Augmented Deep Ensemble with Transfer
+    title   = {Mechanics Augmented Deep Ensemble with Transfer
                Learning for Uncertainty-Aware Shear Capacity Prediction
                of High-Strength Steel Reinforced Concrete Columns},
     author  = {Wakjira, Tadesse G.},
     journal = {Under Review},
-    year    = {2026},
-    note    = {Under Review}
+    year    = {2026}
 }
 ```
 
